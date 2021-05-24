@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: l1dge's blog
+title: l1dge's
 email: techiel1dge@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The new home for my technology journey for the foreseeable future.
@@ -33,14 +33,17 @@ plugins:
   - jekyll-feed
   - jekyll-seo
 
+title: [The title of your blog]
+description: [A short description of your blog's purpose]
+url: [Canonical URL for this blog]
 author:
-  name: l1dge
-  email: techiel1dge@gmail.com
-  url: "https://l1dge.github.io"
+  name: [Your name]
+  email: [Your email address]
+  url: [URL of your website]
 
-paginate: 5
-owner: l1dge
-year: 2021
+paginate: [Number of posts in one paginated section (default: 3)]
+owner: [Your name]
+year: [Current Year]
 
 exclude:
   - .sass-cache/
