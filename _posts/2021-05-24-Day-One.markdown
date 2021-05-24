@@ -4,6 +4,7 @@ title:  "Day One!"
 date:   2021-05-24 10:47:00 +0100
 categories: jekyll update
 tags: PDM pybites
+comments: true
 ---
 
 First post for the new blog, day one of Pybites PDM programme. Very exciting, lots of work to do and plenty to keep me busy. Looking forward to my onboarding call at 12:30 today!
