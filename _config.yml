@@ -22,7 +22,7 @@ title: l1dge
 email: techiel1dge@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The new home for my technology journey for the foreseeable future.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://l1dge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: l1dge
 github_username:  l1dge
