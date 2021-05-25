@@ -7,7 +7,7 @@ categories: jekyll update
 tags: PDM pybites
 ---
 
-First post for the new blog, day one of Pybites PDM programme. Very exciting, lots of work to do and plenty to keep me busy. Looking forward to my onboarding call at 12:30 today!
-Watch this space for future posts detailing the journey from here and hopefully you'll get to see the things we achieve.
+<!--excerpt-start-->First post for the new blog, day one of Pybites PDM programme. Very exciting, lots of work to do and plenty to keep me busy. Looking forward to my onboarding call at 12:30 today!
+Watch this space for future posts detailing <!--excerpt-end-->the journey from here and hopefully you'll get to see the things we achieve.
 
 13:05 And we're off. Onboarding call done. Thanks guys! Looking forward to the next 10 weeks!
