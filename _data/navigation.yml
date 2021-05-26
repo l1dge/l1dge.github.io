@@ -1,0 +1,11 @@
+links:
+  - name: Home
+    link: /
+  - name: About
+    link: about.html
+  - name: Resume
+    link: /resume.html
+  - name: Contact
+    link: /contactme.html
+  - name: All Posts
+    link: /posts.html

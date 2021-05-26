@@ -1,0 +1,38 @@
+<div class="container px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+        <div class="col-md-10 col-lg-8 col-xl-7">
+            <!-- Post preview-->
+            <div class="post-preview">
+                {% for post in site.posts %}
+                <a href="{{ post.url }}"><h2 class="post-title">{{ post.title }}</h2>
+                
+                <h4 class="post-subtitle">{{ post.excerpt }}</h4></a>
+                <h4><a href="{{ post.url }}#disqus_thread"></a></h4>
+                
+                <p class="post-meta">
+                    Posted by
+                    {{ site.name }}
+                    on {{ post.date }}
+                </p>    
+                
+                <hr class="my-4" />
+                {% endfor %}
+            </div>
+
+            <div class="d-flex justify-content-end mb-4">
+                {% if paginator.previous_page %}
+                    <a class="btn btn-primary text-uppercase" href="{{ paginator.previous_page_path }}">&#x2190 Newer Posts</a>
+                {% endif %}
+                {% if paginator.next_page %}
+                    <a class="btn btn-primary text-uppercase" href="{{ paginator.next_page_path }}">Older Posts →</a>
+                {% endif %}
+            </div>
+
+        </div>
+    </div>
+</div>
+   
+          
+
+
+

@@ -1,13 +1,15 @@
 ---
 layout: post
 comments: true
+excerpt_separator: <!--more-->
+image: /assets/img/post_bg/post_bg003.jpg
 title:  "Day Two!"
 date:   2021-05-25 20:50:00 +0100
 categories: PDM pybites
 tags: PDM pybites
 ---
 
-<!--excerpt-start-->Day Two completed. Today was spent modelling the database and tables required for my first project. Created a Python virtualenv, installed Django and created my first django app. Setup my urls/apps and basic views. Created the db using sqlite and commited it all to my github repo. Made the mistake of committing to main rather than creating a <!--excerpt-end-->branch so spent the afternoon wrangling with git to upload everything correctly. Branch has now been commited and my first PR has been raised.
+Day Two completed. Today was spent modelling the database and tables required for my first project. Created a Python virtualenv, installed Django and created my first django app. Setup my urls/apps and basic views. Created the db using sqlite and commited it all to my github repo. Made the mistake of committing to main rather than creating a branch so spent the afternoon wrangling with git <!--more-->to upload everything correctly. Branch has now been commited and my first PR has been raised.
 
 Spent the rest of the afternoon in a great Zoom meeting, first Code-Clinic of many, where I learned some things about Entomology and flask thanks to Luigi and Numba/Cython thanks to Ishan. Both great talks, and interested to try out some of the aspects from both.
 

@@ -1,0 +1,29 @@
+<div class="container px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+        <div class="col-md-10 col-lg-8 col-xl-7">
+            <!-- Post preview-->
+            <div class="post-preview">
+                {% for post in paginator.posts %}
+                <a href="{{ post.url }}"><h2 class="post-title">{{ post.title }}</h2><h3 class="post-subtitle">{{ post.excerpt }}
+                </h3></a>
+                <h4><a href="{{ post.url }}#disqus_thread"></a></h4>
+                <p class="post-meta">
+                    Posted by
+                    {{ site.name }}
+                    on {{ post.date }}
+                </p>    
+                
+                <!-- Divider-->
+                <hr class="my-4" />
+                {% endfor %}
+            </div>
+            
+            
+            <!-- Pager-->
+            <div class="d-flex justify-content-end mb-4">
+                <a class="btn btn-primary text-uppercase" href="posts.html">All Posts <i class="fas fa-arrow-right"></i></a>
+            </div>
+
+        </div>
+    </div>
+</div>

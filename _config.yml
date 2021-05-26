@@ -5,9 +5,10 @@ baseurl: ""
 url: "https://l1dge.github.io"
 twitter_username: l1dge
 github_username: l1dge
+name: l1dge
 
 # Build settings
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-seo
@@ -17,11 +18,12 @@ author:
   email: techiel1dgeatgmaildotcom
   url: "https://l1dge.github.io"
 
-paginate: 5
+paginate: 4
 owner: l1dge
 year: 2021
 
-excerpt_separator: <!--excerpt-end-->
+excerpt_separator: <!--more-->
+post_bg: /assets/img/post-bg.jpg
 
 exclude:
   - .sass-cache/
