@@ -4,12 +4,14 @@ comments: true
 excerpt_separator: <!--more-->
 image: /assets/img/post_bg/post_bg004.jpg
 title:  "Day Four!"
+subheading: "Everybody loves git"
 date:   2021-05-27 22:50:00 +0100
 categories: PDM pybites git github
 tags: PDM pybites git github
 ---
 
 **Day Three (in retrospect)**
+
 So, you may be wondering where Day Three got to, well I was so tired last night after spending the day updating the blog theme that I did not get around to writing a post. But yesterday afternoon was spent looking at comments on my first PR, taking on <!--more-->board the information Bob from Pybites left me and trying to apply them to my Django models. 
 
 Today I continued to make some changes to the Models, had a Zoom meeting at 10am with Bob to discuss some of the recommendations and spent the rest of the day reading up on some of the information from Bob. Had another Zoom meeting with others on the PDM in the afternoon where we discussed leadership and music. 
