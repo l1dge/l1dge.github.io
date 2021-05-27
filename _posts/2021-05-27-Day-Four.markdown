@@ -1,0 +1,27 @@
+---
+layout: post
+comments: true
+excerpt_separator: <!--more-->
+image: /assets/img/post_bg/post_bg004.jpg
+title:  "Day Four!"
+date:   2021-05-27 22:50:00 +0100
+categories: PDM pybites git github
+tags: PDM pybites git github
+---
+
+**Day Three (in retrospect)**
+So, you may be wondering where Day Three got to, well I was so tired last night after spending the day updating the blog theme that I did not get around to writing a post. But yesterday afternoon was spent looking at comments on my first PR, taking on <!--more-->board the information Bob from Pybites left me and trying to apply them to my Django models. 
+
+Today I continued to make some changes to the Models, had a Zoom meeting at 10am with Bob to discuss some of the recommendations and spent the rest of the day reading up on some of the information from Bob. Had another Zoom meeting with others on the PDM in the afternoon where we discussed leadership and music. 
+
+This evening I've spent time wrangling with git, somehow I got my laptop and desktop out of sync with github (curse you git!!) and each other and couldn't apply the migrations to my laptop. Anyway, long story short its all sorted now and we are in sync everywhere.
+
+Also trying to fit in an hours reading a day (not very successfully so far), I'm currently reading 'Deep Work' by Cal Newport. An absolutely fascinating book. Available from <a href="https://www.amazon.co.uk/Deep-Work-Focused-Success-Distracted/dp/0349411905/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1622151867&sr=8-1">Amazon.</a>
+
+<a href="https://www.amazon.co.uk/Deep-Work-Focused-Success-Distracted/dp/0349411905/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1622151867&sr=8-1"><img src="../assets/images/deepwork.jpg" alt="Deep Work Book Cover" width="200"/></a>	
+
+Anyway, off for some well needed rest and back at it tomorrow.
+
+Goodnight!
+
+
