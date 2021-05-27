@@ -4,6 +4,7 @@ comments: true
 excerpt_separator: <!--more-->
 image: /assets/img/post_bg/post_bg003.jpg
 title:  "Day Two!"
+subheading: "Django! Django! Django!"
 date:   2021-05-25 20:50:00 +0100
 categories: PDM pybites
 tags: PDM pybites
