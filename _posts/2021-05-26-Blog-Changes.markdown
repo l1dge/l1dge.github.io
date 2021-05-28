@@ -3,7 +3,7 @@ layout: post
 comments: true
 excerpt_separator: <!--more-->
 image: /assets/img/post_bg/post_bg001.jpg
-title:  "Blog Launch"
+title:  "Blog Changes"
 subheading: "Well isn't that just blogtastic!"
 date:   2021-05-26 07:30 +0100
 categories: Blog pybites Jekyll disqus
