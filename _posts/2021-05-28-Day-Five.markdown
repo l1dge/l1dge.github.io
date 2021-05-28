@@ -12,7 +12,7 @@ tags: Blog pybites google spotify
 
 So this week ends on a high. Made it through the first five excellent days of PDM Woohoo!
 
-I started Day Five off with a nice gentle [decorator pybite No 26](https://codechalleng.es/bites/22/) which eased me into the day. 
+I started Day Five off with a nice gentle <a href="https://codechalleng.es/bites/22/" target="_blank">decorator pybite No 26 which eased me into the day. 
 
 That was followed by converting the local sqlite3 db for my Django App to use Postgres on my linux server. The hardest part was compiling and installing Psycopg2 on my Mac Mini M1, Apple silicon likes to do things a whole different way to Linux! (Yes I develop on a Mac, but I write my blog on Linux, and no, I no longer run Windoze at home.)
 
