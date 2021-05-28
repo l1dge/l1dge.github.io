@@ -2,13 +2,14 @@
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /assets/img/post_bg/post_bg005.jpg
-title:  "Day Five!"
+image: "/assets/img/post_bg/post_bg005.jpg"
+title: "Day Five!"
 subheading: "Fortunate Son"
-date:   2021-05-28 16:55 +0100
-categories: Blog pybites google
+date: 2021-05-28 16:55:00 +0100
+categories: PDM Blog pybites google
 tags: Blog pybites google spotify
 ---
+
 
 So this week ends on a high. Made it through the first five excellent days of PDM Woohoo!!
 
