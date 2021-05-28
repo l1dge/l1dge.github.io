@@ -20,7 +20,7 @@ and no, I no longer run Windoze at home.)
 
 Also had a good discussion with Julian this morning on the benfits of listening to Creedence Clearwater Revival!
 
-<iframe src="https://open.spotify.com/embed/track/4BP3uh0hFLFRb5cjsgLqDh" width="50%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<center><iframe src="https://open.spotify.com/embed/track/4BP3uh0hFLFRb5cjsgLqDh" width="50%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
 This afternoon was spent reading more of Deep Work by  Cal Newton, loving this book, it's incredibly insightful, which I followed up with adding Google
 Analytics to my blog.
