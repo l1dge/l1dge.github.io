@@ -1,0 +1,30 @@
+---
+layout: post
+comments: true
+excerpt_separator: <!--more-->
+title: Day Five!
+subheading: Fortunate Son
+date: 2021-05-28 16:55
+image: /assets/img/post_bg/post_bg005.jpg
+categories: PDM Blog pybites google
+tags: [PDM, Blog, pybites, google, spotify]
+---
+
+So this week ends on a high. Made it through the first five excellent days of PDM Woohoo!!
+
+I started Day Five off with a nice gentle pybite which eased me into the day.<!--more--> [decorator pybite No 26](https://codechalleng.es/bites/22/)
+
+That was followed by converting the local sqlite3 db for my Django App to use Postgres on my linux server. The hardest part was compiling and
+installing Psycopg2 on my Mac Mini M1, Apple silicon likes to do things a whole different way to Linux! (Yes I develop on a Mac, but I write my blog on Linux,
+and no, I no longer run Windoze at home.)
+
+Also had a good discussion with Julian this morning on the benfits of listening to Creedence Clearwater Revival!
+
+<center><iframe src="https://open.spotify.com/embed/track/4BP3uh0hFLFRb5cjsgLqDh" width="50%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
+
+This afternoon was spent reading more of Deep Work by  Cal Newton, loving this book, it's incredibly insightful, which I followed up with adding Google
+Analytics to my blog.
+
+Started hashing out Views for the app to round off the day, but now I'm a bit tired and think I deserve an early finish for a Friday!
+
+Happy Weekend everyone, it's a bank holiday here, but that won't stop me coding!

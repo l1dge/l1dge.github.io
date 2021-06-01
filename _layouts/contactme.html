@@ -13,9 +13,8 @@
                     <div class="col-md-10 col-lg-8 col-xl-7">
                         <p>Want to get in touch? Hit me up on Social Media using one of the links in the footer of any page on this site!</p>
                     
-                            {% comment %} 
-                            <div class="my-5">
-                            <form>
+                            {% comment %} <div class="my-5">
+                            <form id="contact-form" method="post" action="/assets/mail/contact_me.php" role="form" >
                                 <div class="form-floating">
                                     <input class="form-control" id="inputName" type="text" placeholder="Enter your name..." />
                                     <label for="inputName">Name</label>
@@ -34,13 +33,13 @@
                                 </div>
                                 <br />
                                 <button class="btn btn-primary text-uppercase" type="submit">Send</button>
-                            </form> {% endcomment %}
-                        </div>
-                    </div>
+                            </form>
+                        </div>{% endcomment %}
+                    </div> 
                 </div>
             </div>
         </main>
-
+        {% comment %} <script src="/assets/mail/contact_me.js"></script> {% endcomment %}
 
 
     {% include footer.html %}

@@ -21,10 +21,10 @@
 
             <div class="d-flex justify-content-end mb-4">
                 {% if paginator.previous_page %}
-                    <a class="btn btn-primary text-uppercase" href="{{ paginator.previous_page_path }}">&#x2190 Newer Posts</a>
+                    <a class="btn btn-primary text-uppercase" href="{{ paginator.previous_page_path }}"><i class="fas fa-arrow-left"></i>Newer Posts</a>
                 {% endif %}
                 {% if paginator.next_page %}
-                    <a class="btn btn-primary text-uppercase" href="{{ paginator.next_page_path }}">Older Posts →</a>
+                    <a class="btn btn-primary text-uppercase" href="{{ paginator.next_page_path }}">Older Posts<i class="fas fa-arrow-right"></i></a>
                 {% endif %}
             </div>
 
