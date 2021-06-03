@@ -1,0 +1,19 @@
+---
+layout: post
+comments: true
+excerpt_separator: <!--more-->
+title: "Day Eight!"
+subheading: "The future's not set. There's no fate but what we make for ourselves."
+date: 2021-06-03 22:17
+image: /assets/img/post_bg/post_bg009.jpg
+categories: PDM pybites django s3
+tags: [PDM, Blog, pybites, django, s3]
+---
+
+I made a good start to the day merging in all the previous commits to my main branch after reviewing comments with Bob during this mornings code clinic. We discussed a number of things but of particular interest was uploading of images to an S3 Bucket <!--more--> and how to incorporate that into you Django Site (I'll give you a hint, it's not 100% straight forward!), this was folllowed by a Mindset call in the afternoon which was an eye opener about how different people deal with challenges in different ways.
+
+The rest of the day was spent wrangling code and trying to integrate the S3 Bucket facility into my site. Work on this is to be continued in the morning. I'm hope to end the week on a high bu getting this fully working in the way I want it to work.
+
+I think I'm also finally getting the hang of this whole git repo stuff!
+
+Anyway, it's late and I'm still tired, so in the words of the Terminator...."Hasta la vista,Baby!"
