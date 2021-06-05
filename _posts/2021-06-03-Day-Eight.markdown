@@ -10,7 +10,7 @@ categories: PDM pybites django s3
 tags: [PDM, Blog, pybites, django, s3]
 ---
 
-I made a good start to the day merging in all the previous commits to my main branch after reviewing comments with Bob during this mornings code clinic. We discussed a number of things but of particular interest was uploading of images to an S3 Bucket <!--more--> and how to incorporate that into you Django Site (I'll give you a hint, it's not 100% straight forward!), this was folllowed by a Mindset call in the afternoon which was an eye opener about how different people deal with challenges in different ways.
+I made a good start to the day merging in all the previous commits to my main branch after reviewing comments with Bob during this mornings code clinic. We discussed a number of things but of particular interest was uploading of images to an S3 Bucket <!--more--> and how to incorporate that into you Django Site (I'll give you a hint, it's not 100% straight forward!), this was followed by a Mindset call in the afternoon which was an eye opener about how different people deal with challenges in different ways.
 
 The rest of the day was spent wrangling code and trying to integrate the S3 Bucket facility into my site. Work on this is to be continued in the morning. I'm hope to end the week on a high bu getting this fully working in the way I want it to work.
 
