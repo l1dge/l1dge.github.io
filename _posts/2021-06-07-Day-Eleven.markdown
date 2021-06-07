@@ -3,7 +3,7 @@ layout: post
 comments: true
 excerpt_separator: <!--more-->
 title: "Day Eleven!"
-subheading: "Wot no Day Ten? Correct, but you go two images."
+subheading: "Wot no Day Ten? Correct, but you got two images."
 date: 2021-06-07 18:11
 image: /assets/img/post_bg/post_bg001.jpg
 categories: PDM pybites django auth
