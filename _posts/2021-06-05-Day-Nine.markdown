@@ -1,0 +1,20 @@
+---
+layout: post
+comments: true
+excerpt_separator: <!--more-->
+title: "Day Nine!"
+subheading: "It's raining buckets!"
+date: 2021-06-05 13:01
+image: /assets/img/post_bg/post_bg010.jpg
+categories: PDM pybites django s3
+tags: [PDM, Blog, pybites, django, s3]
+---
+Yayy!! I did it. Managed to get multiple images to upload to an S3 bucket for my app. That took some wrangling I can tell you. But like everything once you know how to do it you are unlikely to forget it!<!--more-->
+
+<img src="/assets/img/carlton.gif" alt="Happy Dance" width="30%" height="250"/>
+
+Webapp is coming along nicely, and I'm hoping development will go much quicker now that I am getting to grips with the idiosyncracies of django. Another PR raised to keep Bob even busier than he already is Muaaahhhaha!!!
+
+Think I may take the rest of today off and do some reading in the Hammock that just arrived (early Fathers Day present).
+
+Happy Weekend!
