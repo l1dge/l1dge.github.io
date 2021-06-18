@@ -4,7 +4,7 @@ comments: true
 excerpt_separator: <!--more-->
 title: "Day Twenty!"
 subheading: "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."
-date: 2021-06-17 21:06
+date: 2021-06-19 00:10
 image: /assets/img/post_bg/post_bg007.jpg
 categories: PDM pybites django allauth
 tags: [PDM, Blog, pybites, django, allauth]
