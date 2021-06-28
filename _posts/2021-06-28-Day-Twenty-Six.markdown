@@ -3,7 +3,7 @@ layout: post
 comments: true
 excerpt_separator: <!--more-->
 title: "Day Twenty Six!"
-subheading: "Off Days, down days and Motivation or lack therof..."
+subheading: "Off Days, down days, Motivation or lack thereof..."
 date: 2021-06-28 14:16
 image: /assets/img/post_bg/post_bg010.jpg
 categories: PDM pybites django testing
