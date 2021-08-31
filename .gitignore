@@ -7,3 +7,4 @@ _site/
 *.markdown.backup
 *.vscode
 .vscode
+.DS_Store
