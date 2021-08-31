@@ -9,7 +9,7 @@ image: /assets/img/post_bg/post_bg002.jpg
 categories: PDM pybites django heroku
 tags: [PDM, Blog, pybites, django, heroku]
 ---
-Thirty five days since my last update. Thirty five days!! Thats a lifetime in the world of python development, at least it feels that way. However, I have not been sat on my laurels, rather hard at it finishing off the first app, and making leaps and bounds on the second. Also taking two weeks vacation in the middle of the process! Man that can kill your creative drive, but it had to be done. 
+Thirty five days since my last update. Thirty five days!! Thats a lifetime in the world of python development, at least it feels that way. <!--more-->However, I have not been sat on my laurels, rather hard at it finishing off the first app, and making leaps and bounds on the second. Also taking two weeks vacation in the middle of the process! Man that can kill your creative drive, but it had to be done. 
   
 TIL in those thirty five days:
 
