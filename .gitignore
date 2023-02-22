@@ -8,3 +8,4 @@ _site/
 *.vscode
 .vscode
 .DS_Store
+_includes/spotify.html
