@@ -9,12 +9,15 @@ image: /assets/img/post_bg/post_bg001.jpg
 categories: Amazon Job Learning
 tags: [Amazon, Blog, Learning]
 ---
-Here we are writing any old ~~shit~~ rubbish to see if I can get this JEKYLL blog up and running again.
-
+This year I have had a social media reset. No more FaceBook, Twitter(X), Instagram. They are all poison for a healthy mind.
 <!--more-->
+My only social media presence going forward will be this blog, in some form or another where I have full control over my own content.
+I may revisit the platform on which I host my posts but this for the time being is the only place you will find my ramblings.
+I do still have a YouTube channel but at the moment it is devoid of any content.
 
-You can follow me here:
+As always you can follow me here:
 
+* [YouTube](https://www.youtube.com/channel/UCOdrk4ceynOO9ip9pR-4Mcw)
 * [Github](https://github.com/l1dge)
 
 
